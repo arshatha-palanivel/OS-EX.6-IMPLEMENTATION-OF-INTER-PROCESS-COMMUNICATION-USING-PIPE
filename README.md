@@ -12,7 +12,9 @@ write C programs to illustrate IPC using pipes mechanisms
 
 4.Close the read end of parent process using close() and perform writeoperation 
 
-5.Close the write end of child process and performreading 6.Display thetext.
+5.Close the write end of child process and performreading 
+
+6.Display thetext.
 
 # PROGRAM:
 ```
